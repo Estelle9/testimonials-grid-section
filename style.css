@@ -15,7 +15,7 @@ body {
     display: grid;
     grid-row: repeat(5, auto);
     gap: 2em;
-    margin: 5em 2em;
+    margin: 4em 2em;
     max-width: 120em;
     height: min-content;
 }
